@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+header{
+   background-color: #2E94CC;
+   color: white;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   text-align: center;
+   font-size: 24px;
+   letter-spacing: 0.6px;
+   line-height: 30px;
+}
+
+
+article{
+  
+   margin: auto;
+   max-width: 850px;
+   padding: 8px;
+   padding-top: 70px;
+}
+
+
+article p {
+   font-size: 16px;
+   line-height: 24px;
+}
+
+
+
+.post-authority{
+   color: #6C6C6C;
+   font-size: 12px;
+   line-height: 18px;
+ }
+
+
+ .Share-post , .link-title{
+   font-weight: 600;
+   font-size: 12px;
+   line-height: 22px;
+ }
+
+ .Share-post span{
+   margin-right: 4px;
+ }
+
+
+ .Share-post img{
+  vertical-align: middle;
+}
+
+ 
+
+
+ .link-title{
+   margin-bottom: 12px
+ }
+ 
+ .uppercase{
+   text-transform: uppercase
+ }
+
+
+
+ .hero-image img{
+   max-width: 100%;
+}
+
+.hero-image{
+   margin: 50px 0;
+}
+
+
+
+
+ h1 {
+  font-size: 52px;
+  margin: 0;
+  letter-spacing: 1.3px;
+  line-height: 58px;
+  margin-bottom: 10px;
+
+  }
+
+  
+
+  p{
+  color : purple ;
+  font-size: 18px;
+ }
+
+
+ #content{
+   max-width: 680px;
+   margin: auto;
+ }
+  
+ iframe{
+   margin: 50px 0;
+   max-width: 100%;
+ }
+
+
+ footer{
+   background-color: #f1f1f1;
+   margin: auto;
+   max-width: 680px;
+   padding: 20px 15px;
+   margin-bottom: 70px;
+ }
+
+ footer ul{
+   list-style-type: none;
+   padding: 0;
+   margin: 0
+ }
+
+ footer ul li{
+   margin-bottom: 15px;
+ }
+
+
+ footer ul li:last-of-type{
+    margin-bottom: 0;
+ }
